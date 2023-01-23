@@ -16,3 +16,6 @@ Para rastrear os hábitos .
 Link do Figma
 
 https://www.figma.com/file/90TX3JkKpTYAALI5kXnP0X/Habits-(e)-(Community)?node-id=75%3A567&t=6t5fxEjWXVdIPwa5-1
+
+
+- [Visite o meu projeto online ] ( https://moivas2023.github.io/nlw-setup2023/ )
